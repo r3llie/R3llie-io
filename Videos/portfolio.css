@@ -5,7 +5,7 @@ h1 {
 }
 h2 {
     margin-top: 50px;
-   
+    margin-bottom: 30px;
 }
 
 button {
@@ -21,7 +21,6 @@ nav li {
 a {
   text-decoration: none;
   text-align: center;
-  font-size: 24px;
 }
 .hashtag {
     font-size: 16px;
@@ -31,7 +30,7 @@ a {
 }
 
 .col-5 {
-  margin-top: 35px; 
+  margin-top: 45px; 
 }
 
 .media-link {
