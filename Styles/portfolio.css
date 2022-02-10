@@ -1,3 +1,36 @@
 h1 {
   color: blue;
+  margin-left: 10px;
+  font-size: 80px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    line-height: 98px;
+    font-size: 16px;
+}
+
+.nav-section {
+    margin-top: 33px;
+}
+
+.logo {
+    max-width: 100px;
+    border-radius: 80px;
+}
+
+.about-paragraph {
+    font-size: 24px;
+}
+
+@media (max-width: 900px) {
+    nav li {
+        font-size: 11px;
+    }
+
 }
