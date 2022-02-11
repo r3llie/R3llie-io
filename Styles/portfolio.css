@@ -1,7 +1,14 @@
 h1 {
   color: blue;
-  margin-left: 10px;
-  font-size: 80px;
+  font-size: 133px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 48px;
 }
 
 
@@ -11,7 +18,7 @@ button {
 
 nav li {
   display: inline;
-  margin-right: 20px;
+  margin-right: 15px;
   line-height: 98px;
   font-size: 16px;
 }
@@ -30,18 +37,18 @@ li {
 }
 
 .r3llie {
-  font-size: 34px;
+  font-size: 48px;
 }
 
 .hashtag {
   font-size: 33px;
   margin-bottom: 15px;
-  margin-left: 150px;
+  margin-left: 130px;
 }
 
-.col-5 {
+.col-lg-5 {
   margin-top: 20px;
-  margin-left: 50px;
+  margin-left: 100px;
   padding: 10px;
 }
 .media-link-spacing {
@@ -52,13 +59,13 @@ li {
   border-radius: 30px;
   padding: 10px 30px;
   font-size: 33px;
-  margin-left: 200px;
+  margin-left: 180px;
   margin-top: 50px;
   text-align: center;
 }
 
 .media-section {
-  margin-top: 38px;
+  margin-top: 13px;
 }
 
 .interview-link {
@@ -73,7 +80,9 @@ li {
 }
 
 .nav-section {
-  margin-top: 33px;
+  margin-top: 48px;
+  margin-bottom: 24px;
+
 }
 
 .logo {
@@ -83,14 +92,28 @@ li {
 
 .about-paragraph {
   font-size: 24px;
+  margin-bottom: 30px;
+  margin-left: 20px;
 }
 
 @media (max-width: 900px) {
+h1 {
+  font-size: 84px;
+  text-align: center;
+}
+
   nav li {
     font-size: 11px;
+    display: inline;
+  margin-right: 0px;
+ 
   }
 
-  .col-5 {
+  li {
+    padding: 3px;
+  }
+
+  .col-lg-5 {
     margin-top: 10px;
     margin-left: 0px;
     padding: 0px;
@@ -105,6 +128,12 @@ li {
   }
   .hashtag {
     font-size: 11px;
+    margin-left: 0px;
+  }
+
+  .about-paragraph {
+    margin-bottom: 50px;
+    text-align: center;
     margin-left: 0px;
   }
 }
