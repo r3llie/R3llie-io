@@ -105,5 +105,6 @@ li {
   }
   .hashtag {
     font-size: 11px;
+    margin-left: 0px;
   }
 }
