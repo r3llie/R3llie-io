@@ -4,8 +4,7 @@ h1 {
   font-size: 80px;
 }
 h2 {
-    margin-top: 50px;
-   
+  margin-top: 50px;
 }
 
 button {
@@ -23,37 +22,54 @@ a {
   text-align: center;
   font-size: 24px;
 }
-.hashtag {
-    font-size: 16px;
-    margin-bottom: 10px;
-    margin-left: 50px;
+video {
+  border-radius: 5px;
+}
 
+li {
+  display: inline;
+  padding: 10px;
+}
+
+
+
+.hashtag {
+  font-size: 33px;
+  margin-bottom: 15px;
+  margin-left: 150px;
 }
 
 .col-5 {
-  margin-top: 35px; 
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 10px;
 }
-
+.media-link-spacing {
+  margin-bottom: 60px;
+}
 .media-link {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 30px;
   font-size: 33px;
-  margin-left: 33px;
- 
- 
+  margin-left: 200px;
+  margin-top: 50px;
+  text-align: center;
 }
 
-.more-link {
-border: 1px solid;
-border-radius: 30px;
-padding: 10px 50px;
-font-size: 20px;
+.media-section {
+  margin-top: 38px;
 }
 
+.interview-link {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 10px 50px;
+  font-size: 13px;
+}
 
 .bottom-row {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .nav-section {
@@ -70,25 +86,25 @@ font-size: 20px;
   margin-top: 30px;
 }
 
-
-
-
 @media (max-width: 900px) {
   nav li {
     font-size: 11px;
   }
 
-.col-5 {
-margin-top: 20px;
-}
+  .col-5 {
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 0px;
+  }
 
-.media-link {
-font-size: 16px;
-}
-.more-link {
+  .media-link {
+    font-size: 16px;
+    margin-left: 0px;
+  }
+  .more-link {
     font-size: 11px;
-}
-.hashtag {
+  }
+  .hashtag {
     font-size: 11px;
-}
+  }
 }
