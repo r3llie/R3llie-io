@@ -30,6 +30,7 @@ a {
 
 video {
   border-radius: 5px;
+  margin-top: 33px;
 }
 
 ul {
@@ -105,9 +106,7 @@ li {
   margin-top: 13px;
 }
 
-.video-style {
-margin-top: 18px;
-}
+
 
 
 @media (max-width: 1200px) {
@@ -130,6 +129,10 @@ margin-top: 18px;
 
   li {
     padding: 3px;
+  }
+
+  video {
+    margin-top: 0px;
   }
 
 .nav-section {
@@ -174,7 +177,4 @@ margin-top: 18px;
     text-align: center;
   }
   
-  .video-style {
-    margin-top: 0px;
-  }
 }
