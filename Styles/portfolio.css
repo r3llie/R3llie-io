@@ -1,22 +1,23 @@
 body {
-  background: linear-gradient(#bdcee3, #e3bdc7);
+  background: linear-gradient(#637d9e, #e3bdc7);
 }
 
 h1 {
-  color: black;
   font-size: 113px;
   font-family: "Black Han Sans", sans-serif;
 }
 
 h2 {
-  font-family: "Mate SC", serif;
+  font-family: "Kufam", sans-serif;
   font-size: 53px;
 }
 
 h3 {
+  margin-right: 8px;
   font-size: 43px;
   font-family: "Black Han Sans", sans-serif;
-  color: white;
+  color: #f7d8d7;
+
 }
 
 button {
@@ -24,18 +25,25 @@ button {
 }
 
 nav li {
-  font-family: "Mate SC", serif;
+  font-family: "Kufam", sans-serif;
+  font-weight: bold;
   display: inline;
   margin-right: 15px;
   line-height: 93px;
   font-size: 16px;
+  color:  #f7d8d7;
 }
 
 a {
   text-decoration: none;
   text-align: center;
-  font-size: 24px;
+  font-size: 23px;
   font-family: "Glegoo", serif;
+  color: #ff3108;
+}
+a:hover {
+  color: white;
+  font-weight: bold;
 }
 
 video {
@@ -64,16 +72,16 @@ li {
 }
 
 .about-paragraph {
-  font-family: "Glegoo", serif;
+  font-family: "Kufam", sans-serif;
   font-size: 28px;
   margin-bottom: 10px;
   margin-left: 20px;
   margin-top: 30px;
-  color: black;
+  color: #f7d8d7;
 }
 
 .contact-paragraph {
-  font-family: "Mate SC", serif;
+  font-family: "Kufam", sans-serif;
   font-size: 33px;
   margin-bottom: 10px;
   margin-left: 20px;
@@ -86,7 +94,7 @@ li {
 
 .hashtag {
   font-family: "Black Han Sans", sans-serif;
-  font-size: 33px;
+  font-size: 28px;
   margin-bottom: 15px;
   margin-left: 130px;
 }
@@ -110,10 +118,15 @@ li {
   margin-left: 180px;
   margin-top: 50px;
   text-align: center;
+  
 }
 
 .media-link-spacing {
   margin-bottom: 60px;
+}
+
+.media-link:hover {
+  color: white;
 }
 
 .media-section {
@@ -128,7 +141,8 @@ li {
   }
 
   h3 {
-    font-size: 24px;
+    font-size: 23px;
+    margin-right: 3px;
   }
 
   nav li {
@@ -177,6 +191,9 @@ li {
     margin-left: 0px;
   }
 
+  .logo {
+    max-width: 83px;
+  }
   .about-paragraph {
     margin-top: 0px;
     margin-bottom: 10px;
