@@ -51,6 +51,7 @@ video {
   margin-top: 33px;
 }
 
+
 ul {
   padding: 10px;
   margin-bottom: 40px;
@@ -63,6 +64,11 @@ li {
 
 p {
 margin-left: 30px;
+}
+
+.video-link {
+  margin-top: 13px;
+  text-align: center;
 }
 .icon-social-twitter {
   font-size: 100px;
@@ -92,6 +98,11 @@ margin-left: 30px;
   margin-left: 20px;
   margin-top: 60px;
   color: #f7d8d7;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 38px;
 }
 
 .contact-paragraph {
