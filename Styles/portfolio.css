@@ -17,7 +17,6 @@ h3 {
   font-size: 43px;
   font-family: "Black Han Sans", sans-serif;
   color: #f7d8d7;
-
 }
 
 button {
@@ -31,7 +30,7 @@ nav li {
   margin-right: 15px;
   line-height: 93px;
   font-size: 16px;
-  color:  #f7d8d7;
+  color: #f7d8d7;
 }
 
 a {
@@ -60,7 +59,17 @@ li {
   display: inline;
   padding: 10px;
 }
+.icon-social-twitter {
+  font-size: 100px;
+}
 
+.icon-social-instagram {
+  font-size: 100px;
+}
+
+.icon-social-facebook {
+  font-size: 100px;
+}
 
 .nav-section {
   margin-top: 83px;
@@ -119,7 +128,6 @@ li {
   margin-left: 180px;
   margin-top: 50px;
   text-align: center;
-  
 }
 
 .media-link-spacing {
@@ -133,7 +141,6 @@ li {
 .media-section {
   margin-top: 13px;
 }
-
 
 @media (max-width: 1200px) {
   h1 {
