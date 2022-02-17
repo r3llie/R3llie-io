@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 43px;
+  margin-top: 83px;
   font-family: "Kufam", sans-serif;
   font-size: 53px;
 }
@@ -106,14 +106,14 @@ li {
 .contact-paragraph {
   font-family: "Kufam", sans-serif;
   font-size: 33px;
-  margin-bottom: 10px;
+  margin-bottom: 53px;
   margin-left: 20px;
-  margin-top: 55px;
+  margin-top: 53px;
 }
 
 .footer-paragraph {
   font-family: "Kufam", sans-serif;
-  font-size: 23px;
+  font-size: 18px;
   margin-bottom: 10px;
   margin-left: 20px;
   margin-top: 10px;
@@ -140,14 +140,18 @@ li {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 50px;
-  font-size: 16px;
+  font-size: 23px;
+}
+
+.interview-link-spacing {
+  margin-bottom: 80px;
 }
 
 .single-link {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 50px;
-  font-size: 16px;
+  font-size: 23px;
   margin-left: 138px;
   margin-top: 50px;
   text-align: center;
@@ -174,7 +178,7 @@ li {
   }
 
   h3 {
-    font-size: 23px;
+    font-size: 33px;
     margin-right: 3px;
   }
 
@@ -213,7 +217,7 @@ p {
   }
 
   .single-link {
-    font-size: 16px;
+    
     margin-left: 0px;
     padding: 10px 50px;
   }
