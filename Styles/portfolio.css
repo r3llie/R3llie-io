@@ -62,9 +62,7 @@ li {
   padding: 10px;
 }
 
-p {
-margin-left: 30px;
-}
+
 
 .video-link {
   margin-top: 13px;
@@ -111,6 +109,15 @@ margin-left: 30px;
   margin-bottom: 10px;
   margin-left: 20px;
   margin-top: 55px;
+}
+
+.footer-paragraph {
+  font-family: "Kufam", sans-serif;
+  font-size: 23px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 80px;
 }
 
 .r3llie {
@@ -221,7 +228,7 @@ p {
   }
 
   .hashtag {
-    font-size: 24px;
+    font-size: 28px;
     margin-left: 0px;
   }
 
