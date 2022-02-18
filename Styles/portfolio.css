@@ -63,7 +63,6 @@ li {
   padding: 10px;
 }
 
-
 .iframe-container {
     overflow: hidden;
     position: relative;
@@ -221,6 +220,10 @@ li {
 
   video {
     margin-top: 0px;
+  }
+
+  .stimdancemusic-icons {
+    font-size: 100px;
   }
 
   .icon-social-twitter {
