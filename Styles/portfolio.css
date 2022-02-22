@@ -147,7 +147,8 @@ li {
 .hashtag {
   font-family: "Black Han Sans", sans-serif;
   font-size: 38px;
-  margin-bottom: 15px;
+  margin-bottom: 23px;
+ 
  
 }
 
@@ -176,9 +177,19 @@ li {
   margin-top: 50px;
   text-align: center;
 }
+.playlist-link {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 10px 50px;
+  font-size: 23px;
+
+  margin-top: 50px;
+  text-align: center;
+}
 
 .media-link-spacing {
-  margin-top: 60px;
+  margin-top: 38px;
+
 }
 
 .media-link:hover {
@@ -222,9 +233,6 @@ li {
     margin-top: 0px;
   }
 
-  .stimdancemusic-icons {
-    font-size: 100px;
-  }
 
   .icon-social-twitter {
   font-size: 63px;
