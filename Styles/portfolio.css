@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#637d9e, #F7D8D7);
+  background: linear-gradient(#637d9e, #f7d8d7);
 }
 
 h1 {
@@ -52,7 +52,6 @@ video {
   margin-top: 33px;
 }
 
-
 ul {
   padding: 10px;
   margin-bottom: 40px;
@@ -64,24 +63,35 @@ li {
 }
 
 .iframe-container {
-    overflow: hidden;
-    position: relative;
-    width:100%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
 }
 
 .iframe-container::after {
-    padding-top: 56.25%;
-    display: block;
-    content: '';
+  padding-top: 56.25%;
+  display: block;
+  content: "";
 }
 
 .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.voice-over-link {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 10px 50px;
+  font-size: 23px;
+}
+.voice-over-link-spacing {
+  margin-top: 55px;
+  margin-bottom: 95px;
 }
 
 .video-link {
@@ -240,19 +250,21 @@ li {
   video {
     margin-top: 0px;
   }
-
-
+.voice-over-link-spacing {
+  margin-top: 33px;
+  margin-bottom: 88px;
+}
   .icon-social-twitter {
-  font-size: 63px;
-}
+    font-size: 63px;
+  }
 
-.icon-social-instagram {
-  font-size: 58px;
-}
+  .icon-social-instagram {
+    font-size: 58px;
+  }
 
-.icon-social-facebook {
-  font-size: 68px;
-}
+  .icon-social-facebook {
+    font-size: 68px;
+  }
 
   .nav-section {
     margin-top: 40px;
