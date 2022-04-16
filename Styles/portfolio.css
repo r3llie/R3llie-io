@@ -83,13 +83,13 @@ li {
   border-radius: 8px;
 }
 
-.voice-over-link {
+.linktree-link {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 50px;
   font-size: 23px;
 }
-.voice-over-link-spacing {
+.linktree-link-spacing {
   margin-top: 55px;
   margin-bottom: 95px;
 }
@@ -250,7 +250,7 @@ li {
   video {
     margin-top: 0px;
   }
-.voice-over-link-spacing {
+.linktree-link-spacing {
   margin-top: 15px;
   margin-bottom: 83px;
 }
