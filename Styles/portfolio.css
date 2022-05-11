@@ -42,6 +42,7 @@ a {
   font-family: "Glegoo", serif;
   color: blue;
 }
+
 a:hover {
   color: red;
   font-weight: bold;
@@ -89,6 +90,7 @@ li {
   padding: 10px 50px;
   font-size: 23px;
 }
+
 .linktree-link-spacing {
   margin-top: 55px;
   margin-bottom: 95px;
@@ -98,6 +100,7 @@ li {
   margin-top: 13px;
   text-align: center;
 }
+
 .icon-social-twitter {
   font-size: 100px;
 }
@@ -124,13 +127,12 @@ li {
   font-family: "Kufam", sans-serif;
   font-size: 28px;
   margin-left: 20px;
-  margin-top: 60px;
   color: #f7d8d7;
 }
 
 .contact {
   text-align: center;
-  margin-top: 38px;
+  margin-top: 34px;
 }
 
 .contact-paragraph {
@@ -162,7 +164,11 @@ li {
 
 .col-lg-4 {
   margin-left: 100px;
-  margin-top: 30px;
+  margin-top: 20px;
+}
+
+.col-lg-6 {
+  margin-top: 13px;
 }
 
 .interview-link {
@@ -185,6 +191,7 @@ li {
   margin-top: 50px;
   text-align: center;
 }
+
 .playlist-link {
   border: 1px solid;
   border-radius: 30px;
@@ -193,6 +200,7 @@ li {
   margin-top: 50px;
   text-align: center;
 }
+
 .podcast-link {
   border: 1px solid;
   border-radius: 30px;
@@ -212,7 +220,7 @@ li {
 }
 
 .media-section {
-  margin-top: 13px;
+  margin-top: 23px;
 }
 
 .songkick {
@@ -225,16 +233,13 @@ li {
     font-size: 63px;
     text-align: center;
   }
-
   h3 {
     font-size: 33px;
     margin-right: 3px;
   }
-
   h2 {
     margin-top: 0px;
   }
-
   nav {
     font-size: 13px;
     display: inline;
@@ -242,65 +247,56 @@ li {
     margin-right: 0px;
     line-height: 80px;
   }
-
   li {
     padding: 3px;
   }
-
   video {
     margin-top: 0px;
   }
-.linktree-link-spacing {
-  margin-top: 15px;
-  margin-bottom: 83px;
-}
+  .linktree-link-spacing {
+    margin-top: 15px;
+    margin-bottom: 83px;
+  }
   .icon-social-twitter {
     font-size: 63px;
   }
-
   .icon-social-instagram {
     font-size: 58px;
   }
-
   .icon-social-facebook {
     font-size: 68px;
   }
-
   .nav-section {
     margin-top: 40px;
     margin-bottom: 23px;
   }
-
   .col-lg-4 {
     text-align: center;
     margin-top: 43px;
     margin-left: 10px;
     padding: 0px;
   }
-
   .single-link {
     margin-left: 0px;
     padding: 10px 50px;
   }
-
   .podcast-link {
     margin-left: 0px;
   }
-
+  .media-section {
+    margin-top: 10px;
+  }
   .media-link-spacing {
     margin-top: 0px;
     margin-bottom: 33px;
   }
-
   .more-link {
     font-size: 11px;
   }
-
   .hashtag {
-    font-size: 28px;
+    font-size: 30px;
     margin-left: 0px;
   }
-
   .logo {
     max-width: 83px;
   }
@@ -310,10 +306,11 @@ li {
     text-align: center;
     margin-left: 0px;
   }
-
   .contact {
     text-align: center;
+    margin-top: 0px;
   }
+  
   .contact-paragraph {
     margin-top: 0px;
     margin-bottom: 30px;
@@ -323,3 +320,4 @@ li {
     margin-bottom: 53px;
   }
 }
+
