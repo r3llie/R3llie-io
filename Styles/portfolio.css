@@ -266,7 +266,7 @@ li {
   .col-lg-4 {
     text-align: center;
     margin-top: 48px;
-    margin-left: 10px;
+    margin-left: 0px;
     padding: 0px;
   }
   .single-link {
@@ -287,8 +287,8 @@ li {
     font-size: 11px;
   }
   .music-links {
-    margin-top: 0px;
-    margin-left: 3px;
+    margin-top: 13px;
+    margin-left: 0px;
   }
 
   .hashtag {
