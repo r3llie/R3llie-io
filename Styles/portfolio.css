@@ -101,8 +101,7 @@ li {
   font-size: 103px;
 }
 .linktree {
-  margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 43px;
   font-size: 23px;
 }
 
@@ -156,13 +155,12 @@ li {
 .hashtag {
   font-family: "Black Han Sans", sans-serif;
   font-size: 38px;
-  margin-top: 13px;
   margin-bottom: 23px;
 }
 
 .col-lg-4 {
   margin-left: 100px;
-  margin-top: 20px;
+  margin-top: 23px;
 }
 
 .col-lg-6 {
@@ -177,7 +175,7 @@ li {
 }
 
 .interview-link-spacing {
-  margin-bottom: 80px;
+  margin-bottom: 73px;
 }
 
 .single-link {
@@ -251,10 +249,7 @@ li {
   video {
     margin-top: 0px;
   }
-  .linktree-link-spacing {
-    margin-top: 15px;
-    margin-bottom: 83px;
-  }
+  
   .icon-social-twitter {
     font-size: 63px;
   }
@@ -270,7 +265,7 @@ li {
   }
   .col-lg-4 {
     text-align: center;
-    margin-top: 43px;
+    margin-top: 48px;
     margin-left: 10px;
     padding: 0px;
   }
@@ -292,6 +287,7 @@ li {
     font-size: 11px;
   }
   .music-links {
+    margin-top: 0px;
     margin-left: 3px;
   }
 
