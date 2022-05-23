@@ -146,7 +146,7 @@ li {
   margin-bottom: 10px;
   margin-left: 20px;
   margin-top: 10px;
-  margin-bottom: 80px;
+  margin-bottom: 83px;
 }
 
 .r3llie {
@@ -156,6 +156,7 @@ li {
 .hashtag {
   font-family: "Black Han Sans", sans-serif;
   font-size: 38px;
+  margin-top: 13px;
   margin-bottom: 23px;
 }
 
@@ -303,7 +304,6 @@ li {
   }
   .about-paragraph {
     margin-top: 0px;
-    margin-bottom: 10px;
     text-align: center;
     margin-left: 0px;
   }
@@ -318,7 +318,7 @@ li {
   }
   .songkick {
     margin-top: 13px;
-    margin-bottom: 53px;
+    margin-bottom: 38px;
   }
 }
 
