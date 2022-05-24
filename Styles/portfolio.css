@@ -62,7 +62,9 @@ li {
   display: inline;
   padding: 10px;
 }
-
+img:hover {
+  opacity: .5;
+}
 .iframe-container {
   overflow: hidden;
   position: relative;
