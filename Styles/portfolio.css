@@ -103,8 +103,10 @@ img:hover {
   font-size: 103px;
 }
 .linktree {
-  margin-bottom: 43px;
   font-size: 23px;
+}
+.linktree-img {
+  width: 133px;
 }
 
 .music-links {
@@ -146,7 +148,6 @@ img:hover {
   font-size: 18px;
   margin-bottom: 10px;
   margin-left: 20px;
-  margin-top: 10px;
   margin-bottom: 83px;
 }
 
@@ -177,6 +178,7 @@ img:hover {
 }
 
 .interview-link-spacing {
+  margin-top: 32px;
   margin-bottom: 73px;
 }
 
@@ -264,7 +266,9 @@ background-color: #f1f1f1;
   video {
     margin-top: 0px;
   }
-  
+  .linktree-img {
+    width: 83px;
+  }
   .icon-social-twitter {
     font-size: 63px;
   }
