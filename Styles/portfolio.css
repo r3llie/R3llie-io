@@ -157,7 +157,7 @@ img:hover {
 
 .hashtag {
   font-family: "Black Han Sans", sans-serif;
-  font-size: 36px;
+  font-size: 37px;
   margin-bottom: 26px;
   text-align: center;
 }
@@ -188,7 +188,7 @@ img:hover {
   border-radius: 30px;
   padding: 10px 50px;
   font-size: 23px;
-  margin-left: 138px;
+  margin-left: 148px;
   margin-top: 50px;
   text-align: center;
 }
@@ -313,7 +313,7 @@ background-color: #f1f1f1;
     margin-left: 0px;
   }
   .hashtag {
-    font-size: 30px;
+    font-size: 32px;
     margin-left: 0px;
   }
   .logo {
