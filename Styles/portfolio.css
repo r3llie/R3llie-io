@@ -165,21 +165,21 @@ img:hover {
 
 .col-lg-4 {
   margin-left: 70px;
-  margin-top: 74px;
+  margin-top: 93px;
 }
 
 .col-lg-6 {
   margin-top: 13px;
 }
 
-.interview-link {
+.resource-link {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 50px;
   font-size: 23px;
 }
 
-.interview-link-spacing {
+.resource-link-spacing {
   margin-top: 52px;
   margin-bottom: 73px;
 }
@@ -188,8 +188,18 @@ img:hover {
   border: 1px solid;
   border-radius: 30px;
   padding: 10px 50px;
-  font-size: 23px;
-  margin-left: 148px;
+  font-size: 26px;
+  margin-left: 153px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.playlist-link {
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 10px 50px;
+  font-size: 26px;
+  margin-left: 10px;
   margin-top: 50px;
   text-align: center;
 }
@@ -209,19 +219,7 @@ img:hover {
 .songkick {
   margin-top: 53px;
 }
-.stimmylink {
-  background-color: #f1f1f1;
-  background-image: linear-gradient(63deg, #60130f, #371930, #212529);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-  margin-left: 56px;
-}
-.stimmylink:hover {
-  opacity: 0.7;
-}
+
 
 @media (max-width: 1400px) {
   h1 {
@@ -274,9 +272,11 @@ img:hover {
   .single-link {
     margin-left: 0px;
     padding: 10px 50px;
+    font-size: 23px;
   }
-  .podcast-link {
+  .playlist-link {
     margin-left: 0px;
+    font-size: 23px;
   }
   .media-section {
     margin-top: 10px;
@@ -284,6 +284,9 @@ img:hover {
   .media-link-spacing {
     margin-top: 35px;
     margin-bottom: 33px;
+  }
+  .more-videos-link {
+    font-size: 18px;
   }
   .more-link {
     font-size: 11px;
