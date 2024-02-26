@@ -92,10 +92,9 @@ img:hover {
   text-align: center;
 }
 
-.icon-social-twitter {
-  font-size: 103px;
+.icons {
+  margin-bottom: 0px;
 }
-
 .icon-social-instagram {
   font-size: 90px;
 }
@@ -103,17 +102,25 @@ img:hover {
 .icon-social-facebook {
   font-size: 103px;
 }
+
 .linktree {
   font-size: 23px;
 }
+
 .linktree-img {
   width: 133px;
+}
+
+.twitter-img {
+  width: 133px;
+  margin-bottom: 45px;
 }
 
 .music-links {
   margin-left: 650px;
   margin-top: 18px;
 }
+
 .nav-section {
   margin-top: 83px;
   margin-bottom: 23px;
@@ -180,8 +187,8 @@ img:hover {
 }
 
 .resource-link-spacing {
-  margin-top: 52px;
-  margin-bottom: 73px;
+  margin-top: 24px;
+  margin-bottom: 94px;
 }
 
 .single-link {
@@ -260,8 +267,11 @@ img:hover {
   .linktree-img {
     width: 83px;
   }
-  .icon-social-twitter {
-    font-size: 63px;
+  .twitter-img {
+    width: 83px;
+  }
+  .icons {
+    margin-bottom: 0px;
   }
   .icon-social-instagram {
     font-size: 58px;
